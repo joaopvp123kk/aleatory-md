@@ -1,7 +1,7 @@
 
-const tabela = (prefix, NomeDoBot) => {
+const tabela = (prefix, Joaozin) => {
 return`
-𝐓𝐀𝐁𝐄𝐋𝐀 𝐁𝐘: ${NomeDoBot}🔥
+𝐓𝐀𝐁𝐄𝐋𝐀 𝐁𝐘: ${Joaozin}🔥
 
 
 𝐓𝐀𝐁𝐄𝐋𝐀 𝐃𝐄 𝐋𝐄𝐓𝐑𝐀𝐒 🌀
